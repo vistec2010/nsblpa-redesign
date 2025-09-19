@@ -1,6 +1,6 @@
 # NSBLPA & SalesBets Athlete Redesign
 
-## NSBLPA.com
+## NSBLPA.com  // In Folder Root
 Pages included:
 - index.html
 - ownership.html
@@ -8,7 +8,7 @@ Pages included:
 - apps.html
 - contact.html
 
-## SalesBetsAthlete.com
+## SalesBetsAthlete.com  // In sub-folder SalesBetsAthlete
 Pages included:
 - index.html
 - athletes.html
